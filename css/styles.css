@@ -2,7 +2,16 @@
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+.Funky-test { color: #690664;
+font-style: italic;
 
+}
+h1 {font-family: "lobster"}
+
+h2 {
+  color: #690664;
+font-weight: bold;
+}
 /* Styles for the body */
 
 body {
@@ -49,3 +58,8 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+
+.language-progress{
+
+	background-color: lightpink!important}
